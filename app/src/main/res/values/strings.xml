@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice roller</string>
+    <string name="btn_txt">Roll dices</string>
+    <string name="dice_tot">Total:</string>
+
+</resources>
